@@ -1,0 +1,23 @@
+{
+  "name": "realworld-nuxtjs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "cookieparser": "^0.1.0",
+    "dayjs": "^1.11.2",
+    "js-cookie": "^3.0.1",
+    "markdown-it": "^13.0.1",
+    "nuxt": "^2.15.8"
+  }
+}
